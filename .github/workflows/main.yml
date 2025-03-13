@@ -28,4 +28,3 @@ jobs:
           labels: org.opencontainers.image.source=https://github.com/nichd-bspc/docker-pilot
           tags: |
             ghcr.io/nichd-bspc/docker-pilot:latest
-
