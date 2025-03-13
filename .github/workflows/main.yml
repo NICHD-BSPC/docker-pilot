@@ -27,6 +27,5 @@ jobs:
           push: true
           labels: org.opencontainers.image.source=https://github.com/nichd-bspc/docker-pilot
           tags: |
-            ghcr.io/user/app:latest
-            ghcr.io/user/app:1.0.0
+            ghcr.io/nichd-bspc/docker-pilot:latest
 
